@@ -15,7 +15,7 @@ from telegram.ext import (
 import yt_dlp
 
 # ================= CONFIG =================
-BOT_TOKEN = "YOUR_BOT_TOKEN"
+BOT_TOKEN = "BOT_TOKEN"
 
 MAX_DOWNLOADS_PER_USER = 2
 COOLDOWN = 10  # seconds
